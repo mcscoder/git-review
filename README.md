@@ -3,3 +3,7 @@
 new line
 
 abc
+
+ssh
+rebase
+merge
